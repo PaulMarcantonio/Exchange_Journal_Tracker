@@ -1,5 +1,5 @@
 # Exchange_Journal_Tracker
-Description: 
+<strong>Description:</strong> 
   Exchange 2016 On-Premise DB Journal Message Tracker Script 
 
 Useage: 
