@@ -22,10 +22,10 @@
      1.5
      
 <strong><u>Objective</u>:</strong>
-     - Collect all message activity between start and end dates (in this case past 24 hours)
-     - Provide summary breakdowns based on each type of EventID
-     - Build HTML file of EventID data breakdowns
-     - Send Email Summary table of key EventID totals
+     <br/>&nbsp;&nbsp;&nbsp;Collect all message activity between start and end dates (in this case past 24 hours)
+     <br/>&nbsp;&nbsp;&nbsp;Provide summary breakdowns based on each type of EventID
+     <br/>&nbsp;&nbsp;&nbsp;Build HTML file of EventID data breakdowns
+     <br/>&nbsp;&nbsp;&nbsp;Send Email Summary table of key EventID totals
 
 <strong><u>Pre-Condition(s)</u>:</strong>
      - Powershell Execution Policy set to Remove Signed (Get-ExecutionPolicy, Set-ExecutionPolicy RemoteSigned)
