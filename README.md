@@ -37,9 +37,9 @@
 <strong><u>Post-Condition(s)</u>:</strong>
      - New HTML file with message EventID created on target server
      - Email sent to the desired email list with:
-          * HTML summary table
-          * Link to HTML file created
-          * Copy of the HTML file
+          HTML summary table
+          Link to HTML file created
+          Copy of the HTML file created
 
 <strong><u>Installation</u>:</strong>
      - Make sure Powershell version 3 or above is installed on the server (Server Role and Features (Windows Powershell)
