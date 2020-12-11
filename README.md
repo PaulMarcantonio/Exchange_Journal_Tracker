@@ -5,14 +5,6 @@
 <strong><u>Useage</u>:</strong> 
   <br/>&nbsp;&nbsp;&nbsp;&nbsp;Can be launched in a Powershell session on a system that has Exchange Shell also installed on the System. Also great as a task manager task to run on schedule. This will         provide some key insight on number of messages sent and number of messages that were Journaled.
 
-<strong><u>Pre-Condition</u>:</strong>
-  <br/>&nbsp;&nbsp;&nbsp;&nbsp;Powershell be installed and with execution policy set to remote signed
-  Exchange Powershell Shell (version to match Exchange Server version) is installed on this system as well
-  User that this script runs under has Exchange enterprise Level rights to retrieve information
-
-<strong><u>Project Title</u>:</strong>
-<br/>&nbsp;&nbsp;&nbsp;&nbsp;Exchange Message Tracking Report
-
 <strong><u>Programmer</u>:</strong>
      <br/>&nbsp;&nbsp;&nbsp;&nbsp;Paul Marcantonio
      
@@ -21,7 +13,15 @@
      
 <strong><u>Version</u>:</strong>
      <br/>&nbsp;&nbsp;&nbsp;&nbsp;1.5
-     
+
+<strong><u>Pre-Condition</u>:</strong>
+  <br/>&nbsp;&nbsp;&nbsp;&nbsp;Powershell be installed and with execution policy set to remote signed
+  Exchange Powershell Shell (version to match Exchange Server version) is installed on this system as well
+  User that this script runs under has Exchange enterprise Level rights to retrieve information
+
+<strong><u>Project Title</u>:</strong>
+<br/>&nbsp;&nbsp;&nbsp;&nbsp;Exchange Message Tracking Report
+
 <strong><u>Objective</u>:</strong>
      <br/>&nbsp;&nbsp;&nbsp;&nbsp;Collect all message activity between start and end dates (in this case past 24 hours)
      <br/>&nbsp;&nbsp;&nbsp;&nbsp;Provide summary breakdowns based on each type of EventID
