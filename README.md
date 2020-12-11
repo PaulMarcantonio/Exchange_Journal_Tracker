@@ -38,10 +38,11 @@
 <strong><u>Post-Condition(s)</u>:</strong>
      <br/>&nbsp;&nbsp;&nbsp;&nbsp;New HTML file with message EventID created on target server
      <br/>&nbsp;&nbsp;&nbsp;&nbsp;Email sent to the desired email list with:
-          <br/>&nbsp;&nbsp;&nbsp;&nbsp;HTML summary table
-          <br/>&nbsp;&nbsp;&nbsp;&nbsp;Link to HTML file created
-          <br/>&nbsp;&nbsp;&nbsp;&nbsp;Copy of the HTML file created
-
+          <ul>
+            <li>HTML summary table</li>
+            <li>Link to HTML file created</li>
+            <li>Copy of the HTML file created</li>
+          </ul>
 <strong><u>Installation</u>:</strong>
      <br/>&nbsp;&nbsp;&nbsp;&nbsp;Make sure Powershell version 3 or above is installed on the server (Server Role and Features (Windows Powershell)
      <br/>&nbsp;&nbsp;&nbsp;&nbsp;Install Exchange 2016 Management tools https://docs.microsoft.com/en-us/Exchange/plan-and-deploy/post-installation-tasks/install-management-tools?view=exchserver-2019
