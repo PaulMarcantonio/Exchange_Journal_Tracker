@@ -3,7 +3,7 @@
   <br/>&nbsp;&nbsp;&nbsp;&nbsp;Exchange 2016 On-Premise DB Journal Message Tracker Script 
 
 <strong><u>Useage</u>:</strong> 
-  <br/>Can be launched in a Powershell session on a system that has Exchange Shell also installed on the System. Also great as a task manager task to run on schedule. This will         provide some key insight on number of messages sent and number of messages that were Journaled.
+  <br/>&nbsp;&nbsp;&nbsp;&nbsp;Can be launched in a Powershell session on a system that has Exchange Shell also installed on the System. Also great as a task manager task to run on schedule. This will provide some key insight on number of messages sent and number of messages that were Journaled.
 
 <strong><u>Programmer</u>:</strong>
      <br/>&nbsp;&nbsp;&nbsp;&nbsp;Paul Marcantonio
